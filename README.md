@@ -1,135 +1,151 @@
-# Kunwar Gaurav Sahu
+<div align="center">
 
-**Mathematics & Statistics | Machine Learning | Scientific Machine Learning**
+# Hi, I'm Kunwar Gaurav Sahu
 
-I am a mathematics-trained researcher and AI/ML practitioner working at the intersection of **mathematics, machine learning, and scientific computing**.
+### AI/ML Practitioner @ Accenture
 
-My work focuses on using machine learning to model complex scientific systems, with particular interests in **Neural Operators, PDEs, physics-informed learning, numerical methods, and AI for Science**.
+**MSc Mathematics & Statistics — IIT Tirupati**
 
-I am currently working on **Fourier Neural Operators for spatio-temporal thermal prediction in Wire Arc Additive Manufacturing (WAAM)**, using FEM simulation data and physics-based approaches for neural surrogate modeling.
+*Mathematics × Machine Learning × Scientific Computing*
+
+Exploring how mathematical structure, physical systems, and machine learning can work together.
+
+<br>
+
+<a href="https://github.com/itsKgs">
+  <img src="https://img.shields.io/badge/GitHub-itsKgs-181717?style=flat&logo=github">
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I work at the intersection of **mathematics, machine learning, and scientific computing**.
+
+My interests lie in **Scientific Machine Learning (SciML)**, particularly **Neural Operators, Fourier Neural Operators, PDEs, numerical methods, and physics-informed learning**.
+
+Alongside my professional work in AI/ML, I explore research problems where **mathematical modeling, numerical methods, and machine learning** come together.
+
+---
+
+## Currently
+
+**AI/ML @ Accenture**
+
+Working in an AI/ML-oriented role while continuing to explore **Scientific Machine Learning, AI for Science, and mathematical approaches to machine learning**.
+
+### Research
+
+Currently exploring **Fourier Neural Operators for thermal prediction in Wire Arc Additive Manufacturing**, with a focus on:
+
+- 3D spatio-temporal temperature prediction
+- FEM simulation data
+- Neural surrogate modeling
+- Physics-based augmentation
+- PDE-driven physical systems
+
+→ [Fourier Neural Operator — WAAM](https://github.com/itsKgs/fourier-neural-operator)
 
 ---
 
 ## Research Interests
 
-- Scientific Machine Learning (SciML)
-- Neural Operators & Fourier Neural Operators
-- Physics-Informed Neural Networks (PINNs)
-- Partial Differential Equations (PDEs)
-- Numerical Methods & Numerical Analysis
-- Computational Mathematics
-- Scientific Computing
-- AI for Science
-- Mathematical & Physics-based Modeling
-- AI/ML for Biomedical and Physical Systems
+<div align="center">
+
+`Scientific Machine Learning` · `Neural Operators` · `Fourier Neural Operators`
+
+`PDEs` · `PINNs` · `Numerical Methods` · `Computational Mathematics`
+
+`Scientific Computing` · `AI for Science` · `Biomedical AI`
+
+</div>
 
 ---
 
-## Current Research
+## Technical Skills
 
-### Fourier Neural Operators for Thermal Prediction in WAAM
+### Machine Learning & AI
 
-**Focus:** 3D spatio-temporal temperature prediction from FEM simulation data.
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Deep Learning`
 
-I am exploring neural operator-based surrogate models for predicting thermal evolution in **Wire Arc Additive Manufacturing**, with emphasis on:
+### Scientific Machine Learning
 
-- 3D spatio-temporal temperature fields
-- Fourier Neural Operators (FNOs)
-- Autoregressive prediction
-- FEM simulation data
-- Physics-based data augmentation
-- Neural surrogate modeling
-- PDE-driven scientific systems
+`Neural Operators` · `Fourier Neural Operators` · `PINNs` · `SciML`
 
-The broader goal is to investigate how operator-learning methods can provide efficient approximations of computationally expensive scientific simulations.
+### Mathematics & Scientific Computing
 
----
+`PDEs` · `Numerical Methods` · `Numerical Analysis` · `Mathematical Modeling`
 
-## Selected Projects
+### Scientific Software
 
-### 🔬 Fourier Neural Operator — WAAM Thermal Prediction
+`Julia` · `FEniCS` · `NeuralPDE.jl` · `R`
 
-Research project on neural operator-based prediction of temperature fields in Wire Arc Additive Manufacturing.
+### Tools & Development
 
-**Topics:** FNO · Neural Operators · FEM · PDEs · Scientific ML · PyTorch
-
-[Repository](https://github.com/itsKgs/fourier-neural-operator)
+`Git` · `GitHub` · `Jupyter` · `VS Code` · `Docker`
 
 ---
 
-### 🧮 Physics-Informed Neural Networks
+## Selected Work
 
-Exploration of PINNs and neural PDE solvers for differential equations and scientific modeling.
+### Fourier Neural Operator — WAAM
 
-**Topics:** PINNs · PDEs · NeuralPDE.jl · Differential Equations · Scientific Computing
+Neural operator-based modeling for **3D thermal field prediction in Wire Arc Additive Manufacturing**.
 
----
+**Focus:** FNO · FEM · PDEs · Scientific ML · PyTorch
 
-### 🌡️ PDE & Scientific Computing
+→ [Repository](https://github.com/itsKgs/fourier-neural-operator)
 
-Experiments involving numerical solutions and machine-learning approaches for PDE-based physical systems.
+### Physics-Informed Neural Networks
 
-**Topics:** FEniCS · Julia · SciML · Numerical Methods · PDEs · Mathematical Modeling
+Exploring neural approaches for solving and modeling **PDE-based physical systems**.
 
----
-
-## Technologies
-
-### Machine Learning
-`Python` · `PyTorch` · `TensorFlow`
+**Focus:** PINNs · PDEs · NeuralPDE.jl · Scientific Computing
 
 ### Scientific Computing
-`Julia` · `SciML` · `FEniCS` · `NeuralPDE.jl`
 
-### Mathematics & Modeling
-`PDEs` · `Numerical Analysis` · `Linear Algebra` · `Probability & Statistics` · `Optimization`
+Working with numerical methods and computational tools for **PDE-based mathematical and physical models**.
 
-### Tools
-`Jupyter` · `Git` · `GitHub` · `VS Code` · `Docker` · `R`
+**Focus:** FEniCS · Julia · SciML · Numerical Methods
 
 ---
 
-## Mathematical Background
+## Currently Exploring
 
-My mathematical foundation includes:
+`Deep Learning` · `Generative AI` · `LLMs` · `Agentic AI`
 
-- Partial Differential Equations
-- Numerical Analysis
-- Linear Algebra
-- Probability & Statistics
-- Optimization
-- Mathematical Modeling
-
-I am particularly interested in translating mathematical structure and physical constraints into computational and machine-learning models.
+`Advanced Scientific ML` · `Neural Operators` · `AI for Science`
 
 ---
 
-## Education
+## GitHub
 
-**MSc — Mathematics & Statistics**  
-Indian Institute of Technology Tirupati
+<div align="center">
 
-**B.Tech — Engineering**  
-Institute of Engineering and Technology, Lucknow
+<img src="https://github-readme-stats.vercel.app/api?username=itsKgs&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsKgs&layout=compact&hide_border=true&langs_count=8" height="165">
 
-## Currently Learning
-
-- Advanced Deep Learning
-- Generative AI
-- Large Language Models
-- Agentic AI
-- Advanced Scientific Machine Learning
-- Neural Operators
+</div>
 
 ---
 
 ## Connect
 
-- GitHub: [@itsKgs](https://github.com/itsKgs)
-- LinkedIn: [Kunwar Gaurav Sahu](https://www.linkedin.com/)
+<div align="center">
 
----
+<a href="https://github.com/itsKgs">
+<img src="https://skillicons.dev/icons?i=github" width="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45">
+</a>
 
-*Interested in the intersection of mathematics, machine learning, and scientific discovery.*
+<br><br>
+
+**Research • Mathematics • Machine Learning • AI for Science**
+
+</div>
