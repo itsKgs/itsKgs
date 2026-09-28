@@ -114,18 +114,6 @@ Working with numerical methods and computational tools for **PDE-based mathemati
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsKgs&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsKgs&layout=compact&hide_border=true&langs_count=8" height="165">
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
