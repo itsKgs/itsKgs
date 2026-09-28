@@ -36,7 +36,7 @@ Working in an AI/ML-oriented role while continuing to explore **Scientific Machi
 
 Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts 3D spatio-temporal temperature fields, trained on FEM simulation data with physics-based augmentation.
 
-→ [Fourier Neural Operator — WAAM](https://github.com/itsKgs/fourier-neural-operator)
+→ [Code](https://github.com/itsKgs/fourier-neural-operator)
 
 ---
 
