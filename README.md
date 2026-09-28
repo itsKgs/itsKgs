@@ -2,13 +2,11 @@
 
 # Hi, I'm Kunwar Gaurav Sahu
 
-### AEH @ Accenture
+### AI Identity Security @ Accenture
 
 **MSc Mathematics & Statistics — IIT Tirupati**
 
 *Mathematics × Machine Learning × AI for Science*
-
-Exploring how mathematical structure, physical systems, and machine learning can work together.
 
 </div>
 
@@ -16,23 +14,25 @@ Exploring how mathematical structure, physical systems, and machine learning can
 
 ## About Me
 
-I work in AI for Science, with a focus on Scientific Machine Learning: combining mathematics, numerical methods, and deep learning to model physical
-systems governed by PDEs. 
-I'm interested in building ML methods that respect the underlying physics and make scientific simulation faster and more accurate.
+I work in AI for Science, with a focus on Scientific Machine Learning: combining
+mathematics, numerical methods, and deep learning to model physical systems
+governed by PDEs. I'm interested in building ML methods that respect the
+underlying physics and make scientific simulation faster and more accurate.
 
 ---
 
 ## Currently
 
-**AEH   @ Accenture**
-
-Working at **Accenture** in **AI Identity Security**, while continuing to explore **Scientific Machine Learning, AI for Science, and mathematical approaches to machine learning**.
+Working at **Accenture** in **AI Identity Security**, while continuing to explore
+**Scientific Machine Learning, AI for Science, and mathematical approaches to machine learning**.
 
 ### Research
 
 **Neural operator surrogates for thermal modelling in Wire Arc Additive Manufacturing (WAAM)**
 
-Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts 3D spatio-temporal temperature fields, trained on FEM simulation data with physics-based augmentation.
+Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts
+3D spatio-temporal temperature fields, trained on FEM simulation data with
+physics-based augmentation.
 
 → [Code](https://github.com/itsKgs/fourier-neural-operator)
 
@@ -58,29 +58,25 @@ Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts
 - **Research collaborations** in Scientific Machine Learning and AI for Science
 - **Interdisciplinary work** applying mathematics and ML to biology and healthcare
 
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/kunwar-gaurav-sahu-53b199320).
-
 ---
 
 ## Technical Skills
 
 **Languages:** `Python` · `Julia` · `C++` · `MATLAB`
 
-**Machine Learning:** `PyTorch` · `scikit-learn`  
+**Machine Learning:** `PyTorch` · `scikit-learn`
 
 **Scientific Computing:** `FEniCS.jl` · `NeuralPDE.jl` · `MethodOfLines.jl` · `NumPy`
 
 **Data & Visualization:** `Pandas` · `Matplotlib` · `Plotly` · `ParaView`
 
-**Tools & Platforms:** `Git` · `Github` . `Docker` · `Jupyter` · `Google Colab` . `VS Code`
+**Tools & Platforms:** `Git` · `GitHub` · `Docker` · `Jupyter` · `Google Colab` · `VS Code`
 
 ---
 
 ## Currently Exploring
 
-`Deep Learning` · `Generative AI` · `LLMs` · `Agentic AI`
-
-`Advanced Scientific ML` · `Neural Operators` · `AI for Science`
+`Generative AI` · `LLMs` · `Agentic AI`
 
 ---
 
@@ -92,7 +88,7 @@ Feel free to reach out on [LinkedIn](https://linkedin.com/in/kunwar-gaurav-sahu-
 <img src="https://skillicons.dev/icons?i=github" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/kunwar-gaurav-sahu-53b199320">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
 
