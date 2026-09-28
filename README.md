@@ -28,7 +28,7 @@ Alongside my professional work in AI/ML, I explore research problems where **mat
 
 **AEH   @ Accenture**
 
-Working in an AI/ML-oriented role while continuing to explore **Scientific Machine Learning, AI for Science, and mathematical approaches to machine learning**.
+Working at **Accenture** in **AI Identity Security**, while continuing to explore **Scientific Machine Learning, AI for Science, and mathematical approaches to machine learning**.
 
 ### Research
 
