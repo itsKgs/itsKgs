@@ -26,19 +26,15 @@ Alongside my professional work in AI/ML, I explore research problems where **mat
 
 ## Currently
 
-**AI/ML @ Accenture**
+**AEH   @ Accenture**
 
 Working in an AI/ML-oriented role while continuing to explore **Scientific Machine Learning, AI for Science, and mathematical approaches to machine learning**.
 
 ### Research
 
-Currently exploring **Fourier Neural Operators for thermal prediction in Wire Arc Additive Manufacturing**, with a focus on:
+**Neural operator surrogates for thermal modelling in Wire Arc Additive Manufacturing (WAAM)**
 
-- 3D spatio-temporal temperature prediction
-- FEM simulation data
-- Neural surrogate modeling
-- Physics-based augmentation
-- PDE-driven physical systems
+Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts 3D spatio-temporal temperature fields, trained on FEM simulation data with physics-based augmentation.
 
 → [Fourier Neural Operator — WAAM](https://github.com/itsKgs/fourier-neural-operator)
 
