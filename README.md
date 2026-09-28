@@ -8,6 +8,8 @@
 
 *Mathematics × Machine Learning × AI for Science*
 
+Exploring how mathematical structure, physical systems, and machine learning can work together.
+
 </div>
 
 ---
