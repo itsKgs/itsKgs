@@ -52,6 +52,16 @@ Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts
 
 ---
 
+## Open To
+
+- **Roles** in AI/ML and Data Science
+- **Research collaborations** in Scientific Machine Learning and AI for Science
+- **Interdisciplinary work** applying mathematics and ML to biology and healthcare
+
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/kunwar-gaurav-sahu-53b199320).
+
+---
+
 ## Technical Skills
 
 **Languages:** `Python` · `Julia` · `C++` · `MATLAB`
