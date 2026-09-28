@@ -82,30 +82,6 @@ Currently exploring **Fourier Neural Operators for thermal prediction in Wire Ar
 
 ---
 
-## Selected Work
-
-### Fourier Neural Operator — WAAM
-
-Neural operator-based modeling for **3D thermal field prediction in Wire Arc Additive Manufacturing**.
-
-**Focus:** FNO · FEM · PDEs · Scientific ML · PyTorch
-
-→ [Repository](https://github.com/itsKgs/fourier-neural-operator)
-
-### Physics-Informed Neural Networks
-
-Exploring neural approaches for solving and modeling **PDE-based physical systems**.
-
-**Focus:** PINNs · PDEs · NeuralPDE.jl · Scientific Computing
-
-### Scientific Computing
-
-Working with numerical methods and computational tools for **PDE-based mathematical and physical models**.
-
-**Focus:** FEniCS · Julia · SciML · Numerical Methods
-
----
-
 ## Currently Exploring
 
 `Deep Learning` · `Generative AI` · `LLMs` · `Agentic AI`
