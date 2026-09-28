@@ -10,12 +10,6 @@
 
 Exploring how mathematical structure, physical systems, and machine learning can work together.
 
-<br>
-
-<a href="https://github.com/itsKgs">
-  <img src="https://img.shields.io/badge/GitHub-itsKgs-181717?style=flat&logo=github">
-</a>
-
 </div>
 
 ---
