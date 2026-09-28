@@ -82,17 +82,9 @@ physics-based augmentation.
 
 ---
 
-## Connect
-
 <div align="center">
 
-<a href="https://github.com/itsKgs">
-<img src="https://skillicons.dev/icons?i=github" width="45">
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/kunwar-gaurav-sahu-53b199320">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45">
-</a>
+<a href="https://github.com/itsKgs"><img src="https://skillicons.dev/icons?i=github" width="45"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/kunwar-gaurav-sahu-53b199320"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
 
 <br><br>
 
