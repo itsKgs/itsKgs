@@ -54,25 +54,15 @@ Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts
 
 ## Technical Skills
 
-### Machine Learning & AI
+**Languages:** `Python` · `Julia` · `C++` · `MATLAB`
 
-`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Deep Learning`
+**Machine Learning:** `PyTorch` · `scikit-learn`  
 
-### Scientific Machine Learning
+**Scientific Computing:** `FEniCS.jl` · `NeuralPDE.jl` · `MethodOfLines.jl` · `NumPy`
 
-`Neural Operators` · `Fourier Neural Operators` · `PINNs` · `SciML`
+**Data & Visualization:** `Pandas` · `Matplotlib` · `Plotly` · `ParaView`
 
-### Mathematics & Scientific Computing
-
-`PDEs` · `Numerical Methods` · `Numerical Analysis` · `Mathematical Modeling`
-
-### Scientific Software
-
-`Julia` · `FEniCS` · `NeuralPDE.jl` · `R`
-
-### Tools & Development
-
-`Git` · `GitHub` · `Jupyter` · `VS Code` · `Docker`
+**Tools & Platforms:** `Git` · `Github` . `Docker` · `Jupyter` · `Google Colab` . `VS Code`
 
 ---
 
