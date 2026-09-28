@@ -42,11 +42,11 @@ Developing a hybrid Fourier Neural Operator + CNN that autoregressively predicts
 
 <div align="center">
 
-`Scientific Machine Learning` · `Neural Operators` · `Fourier Neural Operators`
+`AI for Science` · `Scientific Machine Learning` · `Scientific Computing`
 
-`PDEs` · `PINNs` · `Numerical Methods` · `Computational Mathematics`
+`Neural Operators` · `Physics-Informed Neural Networks` · `PDEs`
 
-`Scientific Computing` · `AI for Science` · `Biomedical AI`
+`Numerical Methods` · `Computational Mathematics` · `Biomedical AI`
 
 </div>
 
