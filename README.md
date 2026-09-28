@@ -2,11 +2,11 @@
 
 # Hi, I'm Kunwar Gaurav Sahu
 
-### AI/ML Practitioner @ Accenture
+### AI Identity Security @ Accenture
 
 **MSc Mathematics & Statistics — IIT Tirupati**
 
-*Mathematics × Machine Learning × Scientific Computing*
+*Mathematics × Machine Learning × AI for Science*
 
 Exploring how mathematical structure, physical systems, and machine learning can work together.
 
