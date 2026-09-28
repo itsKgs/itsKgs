@@ -59,7 +59,7 @@ physics-based augmentation.
 ## Open To
 
 - **Roles** in AI/ML and Data Science
-- **Research collaborations** in Scientific Machine Learning and AI for Science
+- **Research collaborations** in Machine Learning and AI for Science
 - **Interdisciplinary work** applying mathematics and ML to biology and healthcare
 
 ---
