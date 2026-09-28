@@ -16,11 +16,9 @@ Exploring how mathematical structure, physical systems, and machine learning can
 
 ## About Me
 
-I work at the intersection of **mathematics, machine learning, and scientific computing**.
-
-My interests lie in **Scientific Machine Learning (SciML)**, particularly **Neural Operators, Fourier Neural Operators, PDEs, numerical methods, and physics-informed learning**.
-
-Alongside my professional work in AI/ML, I explore research problems where **mathematical modeling, numerical methods, and machine learning** come together.
+I work in AI for Science and Scientific Machine Learning, where mathematics, numerical methods, and deep learning come together to model complex physical
+systems. 
+I'm interested in building ML methods that respect the underlying physics and make scientific simulation faster and more accurate.
 
 ---
 
