@@ -16,8 +16,8 @@ Exploring how mathematical structure, physical systems, and machine learning can
 
 ## About Me
 
-I work in AI for Science and Scientific Machine Learning, where mathematics, numerical methods, and deep learning come together to model complex physical
-systems. 
+I work in AI for Science, with a focus on Scientific Machine Learning: combining mathematics, numerical methods, and deep learning to model physical
+systems governed by PDEs. 
 I'm interested in building ML methods that respect the underlying physics and make scientific simulation faster and more accurate.
 
 ---
