@@ -2,7 +2,7 @@
 
 # Hi, I'm Kunwar Gaurav Sahu
 
-### AI Identity Security @ Accenture
+### AEH @ Accenture
 
 **MSc Mathematics & Statistics — IIT Tirupati**
 
